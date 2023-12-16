@@ -1,0 +1,38 @@
+body{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+}
+.ring-1{
+    width: 350px;
+    height: 350px;
+    background-color: #282928;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.ring-2{
+    width: 250px;
+    height: 250px;
+    background-color: #2793f9;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.ring-3{
+    width: 180px;
+    height: 180px;
+    background-color: #f93326;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.bullseye{
+    width: 100px;
+    height: 100px;
+    background-color: #fcff2b;
+    border-radius: 50%;
+}
